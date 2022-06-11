@@ -1,2 +1,5 @@
-git init -> to initilize git in present directory
+git init - to initilize git in present directory
+git status - listing untracked files
+git add -A - adding all untracked files to staging area
+git commit -m "msg" - adding to local repositary
 
